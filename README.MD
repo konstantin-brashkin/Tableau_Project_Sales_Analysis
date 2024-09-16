@@ -12,7 +12,7 @@
 # Bar Chart
 ![5_bar_chart.png](assets%2F5_bar_chart.png)
 # Scatter Plot
-![6_scatter_plot.png](assets%2F6_scatter_plot.png)
+![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)
 # Line Area Chart
 ![7_line_area_chart.png](assets%2F7_line_area_chart.png)
 # Building Dashboard
@@ -21,5 +21,3 @@
 
 
 **Thank you for your attention!**
-
-
