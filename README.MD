@@ -45,6 +45,8 @@ This **Scatter Plot** shows correlation between quantity of products sold and th
 ![7_line_area_chart.png](assets%2F7_line_area_chart.png)
 This **Line Area Chart** shows how sales by category have changed over two years, and there is clearly a downward trend📉.
 # Building Dashboard
+Once all the visualizations are ready, they can be combined into one **Dashboard**📋 for easier viewing.  
+You may also want to set up some filters to have more control interacting the data.
 ![8_dashboard.png](assets%2F8_dashboard.png)
 # Conclusions
 
