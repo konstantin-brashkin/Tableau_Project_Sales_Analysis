@@ -29,7 +29,8 @@ Once all the preparations are complete, it's time to create some nice visualizat
 First one is a **Map Chart**🌍:
 ![4_map_chart.png](assets%2F4_map_chart.png)  
 This chart shows the total sales in different states of US, the size of the dots represents the number of sales and their color represents the profit margin.  
-The larger the size, the more sales were made in that state. The closer the color to blue, the better is profit margin.  
+The larger the size, the more sales were made in that state. The closer the color to blue, the better is profit margin.
+For example, despite the fact that there is quite a large number of sales in the Pennsylvania state, however, its profit margin is not very good.
 # Bar Chart
 ![5_bar_chart.png](assets%2F5_bar_chart.png)
 # Scatter Plot
