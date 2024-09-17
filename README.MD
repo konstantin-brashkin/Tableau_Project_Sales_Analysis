@@ -10,7 +10,10 @@ Also here is the dataset I worked with: [SuperStore Sales DataSet.xlsx](/SuperSt
 
 # Join Tables
 
-![1_join_tables.png](assets%2F1_join_tables.png)
+The dataset contains three tables: Order, Product and Customer. In order to be able to combine data from these tables 
+I established relationship between them:  
+![1_join_tables.png](assets%2F1_join_tables.png)  
+This will allow Tableau smartly and efficiently Join🔗 these tables together when needed.
 
 # Creating Calculated Fields
 ![2_shipping_time.png](assets%2F2_shipping_time.png)
