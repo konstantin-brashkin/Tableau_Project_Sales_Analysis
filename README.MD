@@ -25,9 +25,8 @@ By using build-in function _"DATEDIFF()"_ I created a **Calculated field** that 
 ![3_profit_margin.png](assets%2F3_profit_margin.png)  
 Another useful **Calculated field** is Profit Margin, which I created by simply dividing the Sum of Profit by the Sum of Sales.
 # Map Chart
-Once all the preparations are complete, it's time to create some nice visualizations!
+Once all the preparations are complete, it's time to create some nice visualizations!  
 First one is a **Map Chart**🌍:
-
 ![4_map_chart.png](assets%2F4_map_chart.png)  
 This chart shows the total sales in different states of US, the size of the dots represents the number of sales and their color represents the profit margin.  
 The larger the size, the more sales were made in that state. The closer the color to blue, the better is profit margin.  
