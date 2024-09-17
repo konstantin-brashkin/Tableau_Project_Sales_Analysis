@@ -41,7 +41,9 @@ Another useful type of chart is a **Scatter Plot**, It's the best one to see cor
 ![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)  
 This **Scatter Plot** shows correlation between quantity of products sold and the final profit💸 and there is obviously a pretty solid correlation.
 # Line Area Chart
+**Line Chart**📈 is probably the most useful one when it comes to analyze changes over some period of time.
 ![7_line_area_chart.png](assets%2F7_line_area_chart.png)
+This **Line Area Chart** shows how sales by category have changed over two years, and there is clearly a downward trend📉.
 # Building Dashboard
 ![8_dashboard.png](assets%2F8_dashboard.png)
 # Conclusions
