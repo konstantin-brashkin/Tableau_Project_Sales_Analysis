@@ -20,7 +20,7 @@ My second step was to create **Calculated fields** from existing ones by using s
 
 ### 1. Shipping Time🚚
 ![2_shipping_time.png](assets%2F2_shipping_time.png)  
-By using build-in function _"DATEDIFF()"_ I created a **Calculated field** that represents the number of days from the moment the product is ordered until it is actual delivered.
+By using build-in function _"DATEDIFF()"_ I created a **Calculated field** that represents the number of days from the moment the product is ordered until it is actually delivered.
 ### 2. Profit Margin💰
 ![3_profit_margin.png](assets%2F3_profit_margin.png)  
 Another useful **Calculated field** is Profit Margin, which I created by simply dividing the Sum of Profit by the Sum of Sales.
@@ -32,12 +32,14 @@ This chart shows the total sales in different states of US, the size of the dots
 The larger the size, the more sales were made in that state. The closer the color to blue, the better is profit margin.  
 For example, we can see that despite the fact that there is quite a large number of sales in the Pennsylvania state, however, its profit margin is not very good.
 # Bar Chart
-Next one is a Bar Chart📊:  
+Next one is a **Bar Chart**📊:  
 ![5_bar_chart.png](assets%2F5_bar_chart.png)  
 This chart shows the **Top 5** customers by total sales in each product category.   
 From this chart we can clearly see that Bill Schonley made the most amount of sales in the Technology category.
 # Scatter Plot
-![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)
+Another useful type of chart is a **Scatter Plot**, It's the best one to see correlation between two numeric variables!  
+![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)  
+This **Scatter Plot** shows correlation between quantity of products sold and the final profit and there is obviously a pretty strong correlation.
 # Line Area Chart
 ![7_line_area_chart.png](assets%2F7_line_area_chart.png)
 # Building Dashboard
