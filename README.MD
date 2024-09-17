@@ -62,6 +62,6 @@ This **Tableau** project showcases process of working with SuperStore Sales Data
 You can download the actual **Tableau Packaged Workbook** from this repository or directly by this link: [Sales Analysis Tableau Project.twbx](/Sales%20Analysis%20Tableau%20Project.twbx/)  
 Also here is the dataset I worked with: [SuperStore Sales DataSet.xlsx](/SuperStore%20Sales%20DataSet.xlsx/)
 
-**Thank you for your attention!**
+_**Thank you for your attention!**_
 
 
