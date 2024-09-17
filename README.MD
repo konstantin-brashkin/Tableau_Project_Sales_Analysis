@@ -39,7 +39,7 @@ From this chart we can clearly see that Bill Schonley made the most amount of sa
 # Scatter Plot
 Another useful type of chart is a **Scatter Plot**, It's the best one to see correlation between two numeric variables!  
 ![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)  
-This **Scatter Plot** shows correlation between quantity of products sold and the final profit and there is obviously a pretty solid correlation.
+This **Scatter Plot** shows correlation between quantity of products sold and the final profit💸 and there is obviously a pretty solid correlation.
 # Line Area Chart
 ![7_line_area_chart.png](assets%2F7_line_area_chart.png)
 # Building Dashboard
