@@ -16,7 +16,12 @@ I established relationship between them:
 This will allow Tableau smartly and efficiently **Join**🔗 these tables together when needed.
 
 # Creating Calculated Fields
-![2_shipping_time.png](assets%2F2_shipping_time.png)
+My second step was to create **Calculated fields** from existing ones by using simple math formulas and build-in Tableau functions.
+
+### 1. Shipping Time🚚
+![2_shipping_time.png](assets%2F2_shipping_time.png)  
+By using build-in function _"DATEDIFF()"_ I created a **Calculated field** that represents the number of days from the order being placed to the actual delivery
+### 2. Profit Margin💰
 ![3_profit_margin.png](assets%2F3_profit_margin.png)
 # Map Chart
 ![4_map_chart.png](assets%2F4_map_chart.png)
