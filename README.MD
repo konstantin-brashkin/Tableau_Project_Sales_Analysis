@@ -20,9 +20,10 @@ My second step was to create **Calculated fields** from existing ones by using s
 
 ### 1. Shipping Time🚚
 ![2_shipping_time.png](assets%2F2_shipping_time.png)  
-By using build-in function _"DATEDIFF()"_ I created a **Calculated field** that represents the number of days from the order being placed to the actual delivery
+By using build-in function _"DATEDIFF()"_ I created a **Calculated field** that represents the number of days from the moment the product is ordered until it is actual delivered.
 ### 2. Profit Margin💰
-![3_profit_margin.png](assets%2F3_profit_margin.png)
+![3_profit_margin.png](assets%2F3_profit_margin.png)  
+Another useful **Calculated field** is Profit Margin, which I created by simply dividing the Sum of Profit by the Sum of Sales.
 # Map Chart
 ![4_map_chart.png](assets%2F4_map_chart.png)
 # Bar Chart
