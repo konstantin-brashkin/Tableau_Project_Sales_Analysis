@@ -32,7 +32,10 @@ This chart shows the total sales in different states of US, the size of the dots
 The larger the size, the more sales were made in that state. The closer the color to blue, the better is profit margin.  
 For example, we can see that despite the fact that there is quite a large number of sales in the Pennsylvania state, however, its profit margin is not very good.
 # Bar Chart
-![5_bar_chart.png](assets%2F5_bar_chart.png)
+Next one is a Bar Chart📊:  
+![5_bar_chart.png](assets%2F5_bar_chart.png)  
+This chart shows the **Top 5** customers by total sales in each product category. 
+From this chart we can clearly see that Bill Schonley spends the most money in the Technology category.
 # Scatter Plot
 ![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)
 # Line Area Chart
