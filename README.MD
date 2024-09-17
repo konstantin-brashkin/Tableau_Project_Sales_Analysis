@@ -1,5 +1,12 @@
 # Introduction
 
+Hi! This is my **Tableau Portfolio Project** which involves working with SuperStore Sales🛒 Dataset.  
+This project includes steps such as **Joining tables** together, **creating Calculated fields**, **creating Map chart** 🌍,
+**Bar chart**📊, **Scatter plot** ● and **Line Area Chart**📈, and the final step is to combine all the visualizations into one
+**Dashboard**!
+
+
+
 # Join Tables
 
 ![1_join_tables.png](assets%2F1_join_tables.png)
@@ -21,3 +28,5 @@
 
 
 **Thank you for your attention!**
+
+
