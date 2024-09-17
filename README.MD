@@ -5,8 +5,8 @@ This project includes steps such as **Joining tables** together, **creating Calc
 **Bar chart**📊, **Scatter plot** ● and **Line Area Chart**📈, and the final step is to combine all the visualizations into one
 **Dashboard**!
 
-You can download the actual **Tableau Package Workbook** from this repository or directly by this link: [Sales Analysis Tableau Project.twbx](Sales Analysis Tableau Project.twbx)  
-Also here is the dataset I worked with: [SuperStore Sales DataSet.xlsx](SuperStore Sales DataSet.xlsx)
+You can download the actual **Tableau Package Workbook** from this repository or directly by this link: [Sales Analysis Tableau Project.twbx](/Sales Analysis Tableau Project.twbx/)  
+Also here is the dataset I worked with: [SuperStore Sales DataSet.xlsx](/SuperStore Sales DataSet.xlsx/)
 
 # Join Tables
 
