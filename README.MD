@@ -34,8 +34,8 @@ For example, we can see that despite the fact that there is quite a large number
 # Bar Chart
 Next one is a Bar Chart📊:  
 ![5_bar_chart.png](assets%2F5_bar_chart.png)  
-This chart shows the **Top 5** customers by total sales in each product category. 
-From this chart we can clearly see that Bill Schonley spends the most money in the Technology category.
+This chart shows the **Top 5** customers by total sales in each product category.   
+From this chart we can clearly see that Bill Schonley made the most amount of sales in the Technology category.
 # Scatter Plot
 ![6_scatter_plot_chart.png](assets%2F6_scatter_plot_chart.png)
 # Line Area Chart
